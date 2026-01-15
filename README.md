@@ -1,0 +1,2 @@
+# kalinotes
+Kali linux Notlari
