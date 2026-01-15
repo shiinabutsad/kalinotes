@@ -9,3 +9,10 @@ ls=listeleme
 
 cd= change directory
 
+cp= copy
+
+mv= move
+
+rm= remove
+
+sudo = superuserdo
