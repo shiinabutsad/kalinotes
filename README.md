@@ -16,3 +16,5 @@ mv= move
 rm= remove
 
 sudo = superuserdo
+
+sudo aot update 
