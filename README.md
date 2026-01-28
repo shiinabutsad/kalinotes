@@ -17,4 +17,4 @@ rm= remove
 
 sudo = superuserdo
 
-sudo aot update 
+sudo apt update 
